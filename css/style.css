@@ -3,11 +3,12 @@
     margin: 0;
 }
 article{
-    background-color: aquamarine;
+    background-color: white;
 }
 nav{
-    background-color: green;
+    background-color: red;
 }
 footer{
-    background-color: green;
+    background-color: red;
+    color: white;
 }
